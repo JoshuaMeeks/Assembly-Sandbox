@@ -1,3 +1,3 @@
 # Assembly-Sandbox
 
-A place to test my x86 assembly using NASM.
+A place to test x86 assembly using NASM.
